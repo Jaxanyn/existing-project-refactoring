@@ -1,5 +1,7 @@
-# Existing Project Refactoring
+# existing-project-refactoring
 
-A general Agent Skill for understanding an established codebase, identifying architectural coupling, and planning safe, behavior-preserving refactoring in independently verifiable phases.
+从现有代码和真实行为出发识别架构耦合与边界问题，制定可验证、可回滚的分阶段重构路径，在保持功能稳定的同时提升可维护性和扩展性。
 
-Use the skill as $existing-project-refactoring or let a compatible agent select it from the description.
+这是一个通用 Agent Skill，帮助理解已有代码结构与行为，识别耦合问题，并制定可验证、可回滚的分阶段重构计划，降低重构风险并提升可维护性。
+
+将此仓库安装到支持 Agent Skills 的工具中，即可在已有项目需要重构时调用。
